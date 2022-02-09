@@ -1,3 +1,18 @@
-歡迎查閱我的小作品
+# 提醒  
+歡迎查閱我的小作品，已打包成執行檔可直接運行。  
+下載點：[Download](https://github.com/KHchen183/CuisinePicking/releases/tag/v0.1)
+(注意：壓縮檔內含 exe 檔案，可能被瀏覽器誤判為惡意實體)
 
-下載（.rar）：[Download](https://github.com/KHchen183/CuisinePicking/releases/tag/v0.1)
+# 前言
+(動機)  
+民以食為天，  
+GUI、爬蟲
+
+# 功能介紹  
+
+# 操作說明  
+
+# 技巧觀念
+多執行續:tkinter的視窗無法同時多功處理，在爬取網頁資料時，視窗無法進行其他操作，開一條執行續提供爬蟲搜尋資料。  
+多核心:爬蟲多筆店家資訊網頁，多核心縮短取得資料時間。  
+視窗動態滾動區域(與靜態差異):
