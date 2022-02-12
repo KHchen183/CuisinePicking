@@ -4,10 +4,10 @@
 (提醒：內含 exe 檔案，可能被瀏覽器誤判為惡意實體，但請安心使用)
 
 # 前言
-民以食為天，餐點想半天。為了解決"吃"的煩惱，製作了此美食挑選器，程式中加入多項功能（口袋名單資料庫、網路搜尋美食資訊、隨機挑選美食等），並以 GUI 進行視窗化，提升互動性。  
+民以食為天，餐點想半天。為了解決"吃"的煩惱，製作了此美食挑選器，程式中加入多項功能(如：口袋名單資料庫、網路搜尋美食資訊、隨機挑選美食等)，並建立圖形化介面(GUI)，提升互動性。  
 
 # 功能與操作  
-* GUI 視窗化：  
+* 圖形化介面(GUI)：  
   利用 Python 內建模組 Tkinter 製作。  
   <p align="center">
     <img width="800" src="https://github.com/KHchen183/MediaRepository/blob/main/CuisinePicking/Whole%20Win.png">
@@ -28,7 +28,7 @@
   <img width="800" src="https://github.com/KHchen183/MediaRepository/blob/main/CuisinePicking/Add%20to%20database.gif">  
   
 * 隨機挑選美食：  
-  建立篩條件（如：種類、價位、縣市地區等），縮小挑選範圍，達到符合實際情況的可行性。  
+  建立篩條件(如：種類、價位、縣市地區等)，縮小挑選範圍，達到符合實際情況的可行性。  
 
 # 技巧想法
 * 多執行緒：  
