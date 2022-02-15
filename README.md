@@ -9,23 +9,23 @@
 # 功能與操作  
 * 圖形化介面(GUI)：  
   利用 Python 內建模組 Tkinter 製作。  
-  <p align="center">
-    <img width="800" src="https://github.com/KHchen183/MediaRepository/blob/main/CuisinePicking/Whole%20Win.png">
+  <p align="left">
+    <img width="800" src="https://github.com/KHchen183/CuisinePicking/blob/master/_PreviewPictures/Whole%20Win.png?raw=true">
   </p>
 
 * 口袋名單資料庫：  
   程式本身以 Excel 作為資料庫存取所有店家資訊，可於視窗中編輯、新增或移除，也可至後台 Excel 檔案進行資料處裡。  
   1.編輯、移除功能  
-  <img width="480" src="https://github.com/KHchen183/MediaRepository/blob/main/CuisinePicking/Edit%20and%20Delete.gif">  
+  <img width="480" src="https://github.com/KHchen183/CuisinePicking/blob/master/_PreviewPictures/Edit%20and%20Delete.gif?raw=true">  
   2.新增功能  
-  <img width="480" src="https://github.com/KHchen183/MediaRepository/blob/main/CuisinePicking/Add.gif">  
+  <img width="480" src="https://github.com/KHchen183/CuisinePicking/blob/master/_PreviewPictures/Add.gif?raw=true">  
 
 * 網路搜尋美食資訊：  
   利用網路爬蟲抓取美食網站—[愛食記](https://ifoodie.tw/)的美食資訊，且可以將喜愛的店家資訊儲存至口袋名單。  
   1.搜尋美食資訊  
-  <img width="800" src="https://github.com/KHchen183/MediaRepository/blob/main/CuisinePicking/Search.gif">  
+  <img width="800" src="https://github.com/KHchen183/CuisinePicking/blob/master/_PreviewPictures/Search.gif?raw=true">  
   2.加入至清單中(單一新增、全部新增)    
-  <img width="800" src="https://github.com/KHchen183/MediaRepository/blob/main/CuisinePicking/Add%20to%20database.gif">  
+  <img width="800" src="https://github.com/KHchen183/CuisinePicking/blob/master/_PreviewPictures/Add%20to%20database.gif?raw=true">  
   
 * 隨機挑選美食：  
   建立篩條件(如：種類、價位、縣市地區等)，縮小挑選範圍，達到符合實際情況的可行性。  
